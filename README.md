@@ -1,4 +1,4 @@
-# BayesianCredibleIntervals
+# Bayesian Credible Intervals Vs Frequentist Confidence intervals
 
 This is a code example comparing a bayesian credible interval with a frequentist confidence interval when varying the sample size and the true proportions. The bayesian credible interval is given by a Binomail Beta conjugate prior. One can alter the prior by changing the inital value of the beta distirbution with hyperparamters a and b. The data is sampled with a binomial model after using the Beta prior. After the Binomail Beta conjugate prior is made, the bayesian credible interval is constructed and compared with a standard confidence interval.
 
